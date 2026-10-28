@@ -1,6 +1,6 @@
 # Bumbling Bimbler
 
-Workshop project notebook for motorcycles and embedded electronics.
+Workshop project notebook for the CB450 EFI conversion.
 
 Website: https://pherlopolus.github.io/
 
